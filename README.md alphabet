@@ -1,0 +1,5 @@
+ch=input("Enter the char:")
+if(ch>=a and ch<=z)
+printf(ch,"is an alphabet)
+else
+printf(ch,"is not alphabet")
